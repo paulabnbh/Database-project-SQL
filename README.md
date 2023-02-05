@@ -1,6 +1,6 @@
 # Videoclub database con SQL
 
-_Este proyecto consiste en limpiar y organizar una base de datos que cuenta con siete tablas diferentes para poder relacionarlas entre sí a través de SQL_
+_Este proyecto consiste en limpiar y organizar la base de datos de un videclub que cuenta con siete tablas diferentes para poder relacionarlas entre sí a través de SQL_
 
 ![portada](https://github.com/paulabnbh/Database-project-SQL/blob/main/imagenes/2.jpeg)
 
