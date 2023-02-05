@@ -26,7 +26,7 @@ El repo contiene diferentes carpetas con documentos dentro de ellas. Aquí está
 
 ## Comencemos 🚀
 
-### Data cleaning
+### Data cleaning 🧹
 
 Las tablas de la base de datos no han necesitado de una limpieza muy profunda, sino que se han modificado de manera que puedan relacionarse correctamente en SQL. A continuación vemos los detalles de la limpieza.
 
@@ -37,7 +37,7 @@ He creado una relación entre la tabla *'actors'* y *'films'* a través de la ta
 De esta forma, la relación entre películas y actores está únicamente a través de sus ID, y la categoría se relaciona sólo con films.
 
 
-### SQL
+### SQL 👴🏻
 
 #### Importar los datos a SQL.
 
