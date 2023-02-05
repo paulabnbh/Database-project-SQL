@@ -2,7 +2,7 @@
 
 _Este proyecto consiste en limpiar y organizar una base de datos que cuenta con siete tablas diferentes para poder relacionarlas entre sí a través de SQL_
 
-![portada](hhttps://github.com/paulabnbh/Database-project-SQL/blob/main/imagenes/2.jpeg)
+![portada](https://github.com/paulabnbh/Database-project-SQL/blob/main/imagenes/2.jpeg)
 
 ## Antes de empezar 📋
 
@@ -48,16 +48,16 @@ A continuación podemos ver el diagrama con las relaciones entre cada una de las
 
 Este documento SQL incluye diferentes queries que nos permiten ver la información de la base de datos y las relaciones que hay entre las diferentes tablas. Las queries corresponden a las siguientes 'preguntas':
 
-*1. Duración media de alquiler por película.
-*2. Número de actores en cada película.
-*3. Categoría más frecuente.
-*4. Las tres películas más largas.
-*5. Película con el coste de sustitución más alto.
-*6. Categoría por película.
-*7. Idioma por película.
-*8. Película y su descripción.
-*9. Los cinco actores con el mayor número de películas.
-*10. Top 3 categorías con el mayor número de películas.
+1. Duración media de alquiler por película.
+2. Número de actores en cada película.
+3. Categoría más frecuente.
+4. Las tres películas más largas.
+5. Película con el coste de sustitución más alto.
+6. Categoría por película.
+7. Idioma por película.
+8. Película y su descripción.
+9. Los cinco actores con el mayor número de películas.
+10. Top 3 categorías con el mayor número de películas.
 
 
 
