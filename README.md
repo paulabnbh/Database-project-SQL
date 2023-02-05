@@ -2,7 +2,7 @@
 
 _Este proyecto consiste en limpiar y organizar una base de datos que cuenta con siete tablas diferentes para poder relacionarlas entre sí a través de SQL_
 
-![portada](C:\Users\paula\ironhack\imagenes\2.jpeg)
+![portada](https://github.com/paulabnbh/Database-project-SQL/imagenes/blob/main/2.jpeg?raw=true)
 
 ## Antes de empezar 📋
 
@@ -42,8 +42,7 @@ En este documento encontramos el código que nos permite importar las tablas a S
 
 A continuación podemos ver el diagrama con las relaciones entre cada una de las tablas y el contenido de cada una de ellas.
 
-![EERDiagram](C:\Users\paula\ironhack\proyectos\database-project.sql\sql\03-EER-Diagram-Videoclub.jpeg)
-
+![EERDiagram](https://github.com/paulabnbh/Database-project-SQL/SQL/blob/main/03-EER-Diagram-Videoclub.jpeg?raw=true)
 
 #### Bonus queries
 
